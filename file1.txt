@@ -1,2 +1,3 @@
 how are you doing with verstion control system
 staging is where to keep files you made changes to before tracking
+hello
