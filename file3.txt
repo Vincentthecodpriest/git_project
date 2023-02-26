@@ -1,3 +1,11 @@
 devops is good.... okay
 today is good 
-alright 
+alright,
+develops tools:
+ansible
+docker 
+tarraform 
+Sonaqube
+nexus
+jenkins
+ 
