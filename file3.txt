@@ -1,5 +1,7 @@
 devops is good.... okay
 today is good 
+alright 
+today is not bad 
 alright,
 develops tools:
 ansible
@@ -8,4 +10,5 @@ tarraform
 Sonaqube
 nexus
 jenkins
- 
+yaml
+
